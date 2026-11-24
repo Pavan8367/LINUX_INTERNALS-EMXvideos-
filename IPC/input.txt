@@ -1,0 +1,2 @@
+Hello this is a multi-threaded file reader example.
+Each thread reads different part of file.
